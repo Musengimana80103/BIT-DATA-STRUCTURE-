@@ -1,0 +1,8 @@
+These project of smale program is about sale exihibition
+How these project of smale program will operate
+The users who will apply these smale program he or she wil get message immediately
+about price and names of product, then after user wil abtain area to fillquantity
+of product user has purchased therefore program will determine totol and average
+according to price, after that program will display that if average price is above
+15000 program will indicate that price is above or below 15000 then program will 
+determine maximum, minimum, totol and average.
