@@ -1,3 +1,4 @@
+# stack
 stack=[];
 stack.append("lecture 1");
 stack.append("Lecture 2");
@@ -26,6 +27,7 @@ stack.pop();
 print(stack);
 stack.append(4);
 print("which is on the top is 4 seemly",stack);
+# stack
 # 1.at RRaA 5 client queue. after 1 served, who is front
 queue=[];
 queue.append("C1");
